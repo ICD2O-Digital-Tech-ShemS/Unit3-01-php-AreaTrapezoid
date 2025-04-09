@@ -22,7 +22,6 @@
         <input type="text" id="sideB" placeholder="Enter the sideB" name="sideB"><br><br>
         <label for="height">Height</label>
         <input type="text" id="height" placeholder="Enter the height" name="height"><br><br>
-
         <input type="submit" value="Calculate Area">
 		</form>
 
