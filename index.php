@@ -24,10 +24,9 @@
         <input type="text" id="height" placeholder="Enter the height" name="height"><br><br>
         <input type="submit" value="Calculate Area">
 		</form>
-
-			<!-- iframe for the results to show on the web page. -->
-			<iframe id="area" name="results">			
-				The area of the Trapezoid is  " + $area + cm<sup>2</sup>
-	    </iframe>
+   <div id="user-info">
+      <div id="$area"></div>
+</div>
+	</body>
 	</body>
 </html>
