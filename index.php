@@ -24,9 +24,12 @@
         <input type="text" id="height" placeholder="Enter the height" name="height"><br><br>
         <input type="submit" value="Calculate Area">
 		</form>
+<!-- iframe for the results to show on the web page. -->
+			<iframe id="results" name="results">			
    <div id="user-info">
       <div id="$area"></div>
 </div>
+	    </iframe>
 	</body>
 	</body>
 </html>
