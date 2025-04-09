@@ -7,7 +7,7 @@
     <meta name="author" content="Ms Raffin">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title>Area of a Triangle in PHP</title>
+    <title>Area of a Trapezoid in PHP</title>
   </head>
   <body>
 		<!-- php echo to print the html to the page -->
