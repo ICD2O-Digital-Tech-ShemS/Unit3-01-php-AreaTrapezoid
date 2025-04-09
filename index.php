@@ -15,7 +15,7 @@
 			echo "<h3>This program will calculate the area of a Trapezoid.</h3>";
 		?>
 		<!-- form to get the base and height from the user -->
-    <form action="./results.php" method="post" target="results">
+    <form action="./result.php" method="post" target="results">
         <label for="sideA">Side A</label>
         <input type="text" id="sideA" placeholder="Enter the sideA" name="sideA"><br><br>
         <label for="sideB">Side B</label>
